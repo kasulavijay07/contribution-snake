@@ -1,2 +1,2 @@
 # contribution-snake
-commit
+commi
