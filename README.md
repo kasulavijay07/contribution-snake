@@ -1,2 +1,2 @@
 # contribution-snake
-commi
+com
